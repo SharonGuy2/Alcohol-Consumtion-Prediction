@@ -1,0 +1,173 @@
+CountryT,LAT,LON,Continent,Income Per Person ($),Population,Religion,Average Temperature
+Algeria,28.033886,1.659626,Africa,254.53,43851044,Islam,22.5
+Angola,-11.202692,17.873887,Africa,1648.33,19080000,Christianity,21.55
+Antigua and Barbuda,17.060816,-61.796428,North America,962.05,90000,Christianity,26
+Argentina,-38.416097,-63.616672,South America,419.58,40414300,Christianity,14.8
+Armenia,40.069099,45.038189,Europe,355.84,3091245,Christianity,7.15
+Austria,47.516231,14.550072,Europe,2427.57,8390450,Christianity,6.35
+Azerbaijan,40.143105,47.576927,Europe,310.91,9191720,Islam,11.95
+Bahamas,25.03428,-77.39628,North America,1850.73,340550,Christianity,24.85
+Barbados,13.193887,-59.543198,North America,1437.5,270000,Christianity,26
+Belgium,50.503887,4.469936,Europe,2450.5,10710530,Christianity,9.55
+Belize,17.189877,-88.49765,North America,906.1,310000,Christianity,25.3
+Bhutan,27.514162,90.433601,Asia,320.16,730440,Buddhism,7.4
+Bolivia,-16.290154,-63.588653,South America,516.51,9930000,Christianity,21.55
+Bosnia and Herzegovina,43.915886,17.679076,Europe,597.18,3760000,Christianity,9.85
+Botswana,-22.328474,24.684866,Africa,885.39,2010000,Christianity,21.5
+Brazil,-14.235004,-51.92528,South America,379.31,194950550,Christianity,24.95
+Brunei Darussalam,4.535277,114.727669,Asia,2045.1,408540,Islam,26.85
+Bulgaria,42.733883,25.48583,Europe,651.85,7490353,Christianity,10.55
+Cabo Verde,16.002082,-24.013197,Africa,325.5,512450,Islam,26.8
+Cameroon,7.369722,12.354722,Africa,234.31,19600000,Christianity,27.75
+Chad,15.454166,18.732207,Africa,316.52,11230000,Islam,26.55
+Chile,-35.675147,-71.542969,South America,624.71,17110000,Christianity,8.45
+China,35.86166,104.195397,Asia,1034.95,1341340000,Irreligion,6.95
+Colombia,4.570868,-74.297333,South America,319.54,50290000,Christianity,24.5
+Costa Rica,9.748917,-83.753428,North America,758.39,4660220,Christianity,24.8
+Croatia,45.1,15.2,Europe,948.59,4454450,Christianity,10.9
+Cuba,21.521757,-77.781167,North America,31.22,11260000,Christianity,25.2
+Cyprus,35.126413,33.429859,Europe,1407.56,1100000,Christianity,18.45
+Czech Republic,49.817492,15.472962,Europe,1232.18,10490000,Irreligion,7.55
+Democratic Republic of the Congo,-4.0335162,21.7500603,Africa,,65970000,Christianity,24
+Denmark,56.26392,9.501785,Europe,3633.01,5550450,Christianity,7.5
+Djibouti,11.825138,42.590275,Africa,856.39,893450,Islam,28
+Dominica,15.414999,-61.370976,North America,393.52,70000,Christianity,22.35
+Dominican Republic,18.735693,-70.162651,North America,335.91,9930000,Christianity,24.55
+Ecuador,-1.831239,-78.183406,South America,468.58,14460000,Christianity,21.85
+Egypt,26.820553,30.802498,Africa,218.33,81120000,Islam,22.1
+El Salvador,13.794185,-88.89653,North America,378.64,6190000,Christianity,24.45
+Eritrea,15.179384,39.782334,Africa,200.03,5250000,Christianity,25.5
+Estonia,58.595272,25.013607,Europe,1343.61,1340375,Irreligion,5.1
+Eswatini,-26.522503,31.465866,Africa,905.76,1193560,Christianity,21.4
+Ethiopia,9.145,40.489673,Africa,199.46,82950000,Christianity,22.2
+Fiji,-16.578193,179.414413,Oceania,625.5,860820,Christianity,24.4
+Finland,61.92411,25.748151,Europe,2838.28,5360000,Christianity,1.7
+France,46.227638,2.213749,Europe,2698.41,62790000,Christianity,10.7
+Gabon,-0.803689,11.609444,Africa,520,1510000,Christianity,25.05
+Gambia,13.443182,-15.310139,Africa,82.54,1730000,Islam,27.5
+Germany,51.165691,10.451526,Europe,2938.3,82300000,Christianity,8.4
+Greece,39.074208,21.824312,Europe,880.52,11360000,Christianity,15.4
+Grenada,12.262776,-61.604171,North America,976.58,100000,Christianity,26.65
+Guatemala,15.783471,-90.230759,North America,464.37,14390000,Christianity,23.45
+Guinea,9.945587,-9.696645,Africa,800,9980000,Islam,25.7
+Guyana,4.860416,-58.93018,South America,325.25,850000,Christianity,26
+Haiti,18.971187,-72.285215,North America,783.86,9990000,Christianity,24.9
+Honduras,15.199999,-86.241905,North America,507.45,7600000,Christianity,23.5
+Hungary,47.162494,19.503304,Europe,875.06,9980000,Christianity,9.75
+Iceland,64.963051,-19.020835,Europe,3228.81,320000,Christianity,1.75
+India,20.593684,78.96288,Asia,438.87,1224610000,Hindu,23.65
+Indonesia,-0.789275,113.921327,Asia,302.52,239870000,Islam,25.85
+Iran,32.427908,53.688046,Asia,326.3,84992949,Islam,17.25
+Iraq,33.223191,43.679291,Asia,573.66,31670000,Islam,21.4
+Ireland,53.41291,-8.24389,Europe,2943.58,4470000,Christianity,9.3
+Israel,31.046051,34.851612,Asia,2590.02,7420000,Judaism,19.2
+Italy,41.87194,12.56738,Europe,1697.57,60550000,Christianity,13.45
+Jamaica,18.109581,-77.297508,North America,635.04,2740000,Christianity,24.95
+Japan,36.204824,138.252924,Asia,2803.19,126540000,Irreligion,11.15
+Jordan,30.585164,36.238414,Asia,582.77,6190000,Islam,18.3
+Kazakhstan,48.019573,66.923684,Asia,417.58,16030460,Islam,6.4
+Kenya,-0.023559,37.906193,Africa,395.95,40510000,Christianity,24.75
+Kiribati,-3.370417,-168.734039,Oceania,,101120,Christianity,28.2
+Kyrgyzstan,41.20438,74.766098,Asia,246.21,5333440,Islam,1.55
+Laos,19.85627,102.495496,Asia,350,6200000,Buddhism,22.8
+Lebanon,33.854721,35.862285,Asia,900.64,4230000,Islam,16.4
+Lesotho,-29.609988,28.233608,Africa,759.44,2170000,Christianity,11.85
+Liberia,6.428055,-9.429499,Africa,4384,3990000,Christianity,25.3
+Lithuania,55.169438,23.881275,Europe,1091.9,3320000,Christianity,6.2
+Luxembourg,49.815273,6.129583,Europe,4239.31,510000,Christianity,8.65
+Madagascar,-18.766947,46.869107,Africa,219.1,20710000,Christianity,22.65
+Malaysia,4.210484,101.975766,Asia,822.94,28400000,Islam,25.4
+Malta,35.937496,14.375416,Europe,1311.41,420264,Christianity,19.2
+Mauritania,21.00789,-10.940835,Africa,168.07,4594525,Islam,27.65
+Mauritius,-20.348404,57.552152,Africa,518.2,1300000,Hindu,22.4
+Mongolia,46.862496,103.846656,Asia,362.82,2760000,Buddhism,13.55
+Morocco,31.791702,-7.09262,Africa,459.06,31950000,Islam,17.1
+Mozambique,-18.665695,35.529562,Africa,264.13,23390000,Christianity,23.8
+Myanmar,21.913965,95.956223,Asia,239.51,47960000,Buddhism,13.05
+Netherlands,52.132633,5.291266,Europe,3006.82,16610000,Christianity,9.25
+New Zealand,-40.900557,174.885971,Oceania,2777.79,4699755,Irreligion,10.55
+Nicaragua,12.865416,-85.207229,North America,262.83,5790000,Christianity,24.9
+Niger,17.607789,8.081666,Africa,180.87,15510000,Islam,27.15
+Nigeria,9.081999,8.675277,Africa,175.47,158420000,Islam,26.8
+North Macedonia,41.608635,21.745275,Europe,407.17,2060000,Christianity,9.8
+North Korea,40.339852,127.510093,Asia,594.92,24350000,Irreligion,5.7
+Norway,60.472024,8.468946,Europe,3475.52,4880000,Christianity,1.5
+Oman,21.512583,55.923255,Asia,1672.83,2780000,Islam,25.6
+Panama,8.537981,-80.782127,North America,736.38,3520000,Christianity,25.4
+Papua New Guinea,-6.314993,143.95555,Oceania,321.43,6860000,Christianity,25.25
+Paraguay,-23.442503,-58.443832,South America,345.75,6450000,Christianity,23.55
+Peru,-9.189967,-75.015152,South America,387.21,29080000,Christianity,19.6
+Poland,51.919438,19.145136,Europe,894.17,38280000,Christianity,7.85
+Qatar,25.354826,51.183884,Asia,3098.53,1760000,Islam,27.15
+Rwanda,-1.940278,29.873888,Africa,381.93,10620000,Christianity,17.85
+Saint Lucia,13.909444,-60.978893,North America,1356.74,170000,Christianity,25.5
+Saint Vincent and the Grenadines,12.984305,-61.287228,North America,740.04,110000,Christianity,26.8
+Sao Tome and Principe,0.18636,6.613081,Africa,118.64,170000,Christianity,23.75
+Saudi Arabia,23.885942,45.079162,Asia,1678.98,27450000,Islam,24.65
+Senegal,14.497401,-14.452362,Africa,542.61,17745000,Islam,27.85
+Seychelles,-4.679574,55.491977,Africa,614.38,90000,Christianity,27.15
+Sierra Leone,8.460555,-11.779889,Africa,1544.66,5870000,Islam,26.05
+Singapore,1.352083,103.819836,Asia,3778.83,5090000,Buddhism,26.45
+Slovakia,48.669026,19.699024,Europe,998.39,5460000,Christianity,6.8
+Slovenia,46.151241,14.995463,Europe,1319.39,2030000,Christianity,8.9
+Solomon Islands,-9.64571,160.156194,Oceania,564.8,540000,Christianity,25.65
+South Africa,-30.559482,22.937506,Africa,1444.27,50130000,Christianity,17.75
+South Korea,35.907757,127.766922,Asia,2400.74,48180000,Irreligion,11.5
+Spain,40.463667,-3.74922,Europe,1575.22,46080000,Christianity,13.3
+Sri Lanka,7.873054,80.771797,Asia,246.12,20860000,Buddhism,26.95
+Suriname,3.919305,-56.027783,South America,304.99,520000,Christianity,25.7
+Sweden,60.128161,18.643501,Europe,2952.02,9380000,Christianity,2.1
+Switzerland,-26.522503,31.465866,Europe,6216.52,7660000,Christianity,5.5
+Syria,34.802075,38.996815,Asia,82.1,20410000,Islam,17.75
+Tajikistan,38.861034,71.276093,Asia,164.78,6880000,Islam,2
+Tanzania,-6.369028,34.888822,Africa,235.96,44840000,Christianity,22.35
+Timor-Leste,-8.874217,125.727539,Asia,283.33,1120000,Christianity,25.25
+Togo,8.619543,0.824782,Africa,141.68,6030000,Christianity,27.15
+Trinidad and Tobago,10.691803,-61.222503,North America,853.98,1340000,Christianity,25.75
+Turkey,38.963745,35.243322,Asia,418.57,72750000,Islam,9.9
+Turkmenistan,38.969719,59.556278,Asia,430.32,5040000,Islam,15.1
+Uganda,1.373333,32.290275,Africa,161.94,33420000,Christianity,22.8
+United Arab Emirates,23.424076,53.847818,Asia,2803.93,7510000,Islam,27
+United Kingdom,55.378051,-3.435973,Europe,2688.68,62040000,Christianity,8.48
+United States of America,37.09024,-95.712891,North America,3559.52,310380000,Christianity,8.55
+Uruguay,-32.522779,-55.765835,South America,602.35,3370000,Christianity,17.55
+Uzbekistan,41.377491,64.585262,Asia,248.1,27440000,Islam,12.05
+Vanuatu,-15.376706,166.959158,Oceania,813.17,240000,Christianity,23.95
+Venezuela,6.42375,-66.58973,South America,260,28980000,Christianity,25.35
+Vietnam,14.058324,108.277199,Asia,430.7,94700000,Folk religion,24.45
+Yemen,15.552727,48.516388,Asia,257.45,24050000,Islam,23.85
+Zimbabwe,-19.015438,29.154857,Africa,331.25,12570000,Christianity,21
+Alaska,64.44596,-149.68091,North America,5398.33,731545,Christianity,-3
+Arizona,34.39534,-111.76327,North America,4079.16,7278717,Christianity,15.7
+Arkansas,35.20489,-92.44791,North America,3925.75,3017825,Christianity,15.8
+California,36.778259,-119.417931,North America,5956.66,39512223,Christianity,15.2
+Colorado,39.113014,-105.358887,North America,5293.5,5758736,Christianity,7.3
+Connecticut,41.599998,-72.699997,North America,6647.58,3565287,Christianity,9.4
+Delaware,39,-75.5,North America,4730.66,973764,Christianity,12.9
+District of Columbia,38.89379,76.988,North America,7255.33,705749,Christianity,13.16
+Florida,27.994402,-81.760254,North America,4611.41,21477737,Christianity,21.5
+Hawaii,19.741755,-155.844437,North America,5060.75,1415872,Christianity,21.1
+Idaho,44.068203,-114.742043,North America,4051.33,1787065,Christianity,6.9
+Illinois,40,-89,North America,5248.08,12671821,Christianity,11
+Iowa,42.032974,-93.581543,North America,4601.5,3155070,Christianity,8.8
+Kansas,38.5,-98,North America,4672.75,2913314,Christianity,12.4
+Louisiana,30.39183,-92.329102,North America,4169.75,4648794,Christianity,19.1
+Maine,45.367584,-68.972168,North America,4518.75,1344212,Christianity,5
+Montana,46.96526,-109.533691,North America,4444.08,1068778,Christianity,5.9
+Nebraska,41.5,-100,North America,4828.5,1934408,Christianity,9.3
+Nevada,39.876019,-117.224121,North America,4469.58,3080156,Christianity,9.9
+New Hampshire,44,-71.5,North America,5534.83,1359711,Christianity,6.6
+New Mexico,34.307144,-106.018066,North America,3816.91,2096829,Christianity,11.9
+New York,43,-75,North America,6295.66,19453561,Christianity,7.4
+North Dakota,47.650589,-100.437012,North America,4949,762062,Christianity,4.7
+Oklahoma,36.084621,-96.921387,North America,4104.08,3956971,Christianity,15.3
+Oregon,44,-120.5,North America,4730.41,4217737,Christianity,9.1
+Pennsylvania,41.203323,-77.194527,North America,5183.16,12801989,Christianity,9.3
+Rhode Island,41.700001,-71.5,North America,5069.75,1059361,Christianity,10.1
+South Carolina,33.836082,-81.163727,North America,3958.5,5148714,Christianity,16.9
+Tennessee,35.860119,-86.660156,North America,4212.25,6833174,Christianity,14.2
+Vermont,44,-72.699997,North America,4887.5,623989,Christianity,6.1
+Virginia,37.926868,-78.024902,North America,5196.91,8535519,Christianity,12.8
+Washington,47.751076,-120.740135,North America,5693.5,7614893,Christianity,9.1
+West Virginia,39,-80.5,North America,3759.08,1792147,Christianity,11
+Wyoming,43.07597,-107.290283,North America,4079.16,578759,Christianity,5.6
